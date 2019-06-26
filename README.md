@@ -1,1 +1,1 @@
-# Stack-Queue-Dynamic-Memory-Allocation
+# Stack, Queue and Dynamic Memory Allocation
